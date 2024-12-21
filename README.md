@@ -50,7 +50,7 @@ Dicoding-AnalisisData/
 1. **Clone Repository**
    ```bash
    git clone https://github.com/anisabintang/Dicoding-AnalisisData.git
-   cd Dicoding-AnalisisData/dashboard
+   cd Dicoding-AnalisisData
    ```
 
 2. **Install Dependensi**
@@ -60,7 +60,7 @@ Dicoding-AnalisisData/
 
 3. **Jalankan Dashboard**
    ```bash
-   streamlit run app.py
+   streamlit run dashboard/app2.py
    ```
 
 4. **Akses di Browser**  
