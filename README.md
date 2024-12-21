@@ -1,7 +1,3 @@
-Berikut adalah versi README yang lebih ringkas dan relevan:
-
----
-
 # Dicoding-AnalisisData
 
 Proyek ini adalah bagian dari submission kursus **Analisis Data** di Dicoding. Dashboard ini dibuat untuk menganalisis data e-commerce dan menjawab pertanyaan bisnis yang diajukan menggunakan **Streamlit**.
